@@ -1,3 +1,8 @@
+<body style="max-width: 800px; margin: auto; font-family: sans-serif; padding: 20px;">
+
+
+
+
 .github
 app
 bootstrap
@@ -62,3 +67,4 @@ Meskipun file dan foldernya banyak, sebagai it, 90% waktu kamu cuma bakal habis 
  * .env (Setting Database)
 Sisanya? Biarkan mereka bekerja di balik layar seperti mesin-mesin otomatis di pabrik yang nggak perlu kamu bongkar tiap hari selama nggak ada masalah.
 
+</body>
